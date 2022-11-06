@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Ideia de um calendaria para os jogos da copa 2022.
+link para visualização do projeto: https://jcesar03.github.io/nlw-10-copa/
+
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/aT9DIrZy5hnkCtQsjENhue/Calend%C3%A1rio-de-Jogos). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
